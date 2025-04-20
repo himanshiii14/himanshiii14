@@ -47,6 +47,7 @@ Future **CISO** in the making, passionate about ethical hacking, automation, and
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshiii14&layout=compact&theme=tokyonight)
 
 ---
+📄 [Check out my resume](https://github.com/himanshiii14/resume/raw/main/Himanshi_Gupta_Resume.pdf)
 
 ✨ *"Keep learning, keep hacking. Greatness is built in silence."*
         
