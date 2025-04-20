@@ -35,5 +35,18 @@ Future **CISO** in the making, passionate about ethical hacking, automation, and
 📜 [Resume](#) ← (*Upload your resume & add link here*)
 
 ---
+---
+
+### 📊 GitHub Stats:
+![Himanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshiii14&show_icons=true&theme=tokyonight)
+
+### 🏆 GitHub Streak:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=himanshiii14&theme=tokyonight)](https://git.io/streak-stats)
+
+### 📈 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshiii14&layout=compact&theme=tokyonight)
+
+---
 
 ✨ *"Keep learning, keep hacking. Greatness is built in silence."*
+        
